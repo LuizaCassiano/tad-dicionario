@@ -1,5 +1,5 @@
 # tad-dicionario
-Implementação da TAD em diferentes estruturas de dados
+Implementação da TAD em diferentes estruturas de dados:
 
 •	Árvore binária não balanceada
 
